@@ -1,0 +1,68 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <Objective-C>
+      <option name="INDENT_NAMESPACE_MEMBERS" value="3" />
+      <option name="INDENT_C_STRUCT_MEMBERS" value="3" />
+      <option name="INDENT_CLASS_MEMBERS" value="3" />
+      <option name="INDENT_VISIBILITY_KEYWORDS" value="1" />
+      <option name="INDENT_INSIDE_CODE_BLOCK" value="3" />
+      <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
+      <option name="KEEP_NESTED_NAMESPACES_IN_ONE_LINE" value="true" />
+      <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
+      <option name="FUNCTION_BRACE_PLACEMENT" value="5" />
+      <option name="LAMBDA_CAPTURE_LIST_ALIGN_MULTILINE" value="true" />
+      <option name="LAMBDA_CAPTURE_LIST_ALIGN_MULTILINE_BRACKET" value="true" />
+      <option name="FUNCTION_CALL_ARGUMENTS_ALIGN_MULTILINE_PARS" value="true" />
+      <option name="SHIFT_OPERATION_WRAP" value="0" />
+      <option name="TEMPLATE_PARAMETERS_WRAP" value="1" />
+      <option name="TEMPLATE_PARAMETERS_ALIGN_MULTILINE" value="true" />
+      <option name="TEMPLATE_PARAMETERS_ALIGN_MULTILINE_PARS" value="true" />
+      <option name="TEMPLATE_CALL_ARGUMENTS_ALIGN_MULTILINE" value="true" />
+      <option name="SUPERCLASS_LIST_WRAP" value="1" />
+      <option name="SUPERCLASS_LIST_BEFORE_COLON" value="0" />
+      <option name="SUPERCLASS_LIST_AFTER_COLON" value="2" />
+      <option name="SPACE_BEFORE_TEMPLATE_DECLARATION_LT" value="true" />
+      <option name="SPACE_WITHIN_EMPTY_BRACES" value="true" />
+      <option name="SPACE_BEFORE_SUPERCLASS_COLON" value="false" />
+      <option name="SPACE_BEFORE_INIT_LIST_COLON" value="false" />
+      <option name="SPACE_BEFORE_INIT_LIST" value="true" />
+      <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+      <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+      <option name="DISCHARGED_SHORT_TERNARY_OPERATOR" value="true" />
+    </Objective-C>
+    <Objective-C-extensions>
+      <extensions>
+        <pair source="c" header="h" fileNamingConvention="NONE" />
+        <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      </extensions>
+    </Objective-C-extensions>
+    <codeStyleSettings language="ObjectiveC">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+      <option name="KEEP_LINE_BREAKS" value="false" />
+      <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+      <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+      <option name="ELSE_ON_NEW_LINE" value="true" />
+      <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+      <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="false" />
+      <option name="SPACE_AROUND_LOGICAL_OPERATORS" value="false" />
+      <option name="SPACE_AROUND_LAMBDA_ARROW" value="false" />
+      <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+      <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+      <option name="BINARY_OPERATION_WRAP" value="0" />
+      <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+      <option name="TERNARY_OPERATION_WRAP" value="0" />
+      <option name="FOR_STATEMENT_WRAP" value="1" />
+      <option name="ARRAY_INITIALIZER_WRAP" value="0" />
+      <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+      <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="CONTINUATION_INDENT_SIZE" value="6" />
+        <option name="TAB_SIZE" value="3" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
